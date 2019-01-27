@@ -1,0 +1,5 @@
+,up,left,left,
+
+cost of the path: 67
+search depth: 3
+running time: 0.000509
